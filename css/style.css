@@ -1,0 +1,44 @@
+@charset "utf-8";
+
+*{margin: 0;padding: 0;}
+/*群集*/
+html,body,#box,#cat{
+	width: 100%;
+	height: 100%;
+}
+img{
+	width: 20%;
+	position: absolute;
+}
+#cymbal{
+	left: 20%;
+	bottom: 30%;
+}
+#drink{
+	left: 20%;
+	bottom: 20%;	
+}
+#eat{
+	left: 20%;
+	bottom: 10%;	
+}
+#fart{
+	right: 20%;
+	bottom: 30%;
+}
+#pie{
+	right: 20%;
+	bottom: 20%;	
+}
+#scratch{
+	right: 20%;
+	bottom: 10%;	
+}
+#tou{
+	position: absolute;
+	width: 60%;
+	height: 35%;
+	left: 16%;
+	top:18%;
+	border-radius: 50%;
+}
